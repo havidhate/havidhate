@@ -45,8 +45,8 @@
 
 - 🧾 **IEEE-Published Researcher** – [Link to IEEE paper](https://ieeexplore.ieee.org/document/10726129?signout=success/)
 - 🎓 **Assistant Professor (Computer Science)** – Guided 100+ students
-- 🔢 **GATE 2023** – AIR-3006
-- 🧠 **UGC-NET & SET** – AIR-901
+- 🔢 **GATE 2022** – AIR-3006
+- 🧠 **UGC-NET & SET 2024** – AIR-901
 
 ---
 
